@@ -8,4 +8,4 @@ for x in range(10): #iterate for loop
  elif x % 3 == 0: #condition 4
   print("buzz") #display result
  else: #condition 5
-  print(x) #display result
+  print(x) #display result 
